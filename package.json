@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "build": "^0.1.4",
+    "e": "^0.2.33",
+    "npm": "^11.14.1",
+    "run": "^1.5.0"
+  },
+  "scripts": {
+    "build": "echo 'Build completed'"
+  }
+}
